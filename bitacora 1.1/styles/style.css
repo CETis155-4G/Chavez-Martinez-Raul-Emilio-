@@ -1,0 +1,43 @@
+body{
+    background-color: #f2f2f2;;
+}
+strong{
+    color: brown;
+    font-size: 27.5px;
+    padding-left: 650px;  
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-family: "Noto Sans JP",sans-serif;
+    font-style: arial;
+    text-align: justify;
+    padding-left: 35px;
+}
+SUmmary{
+    color:red;
+    font-size: 18px;
+    font-family: "Noto Sans JP",sans-serif;
+    font-style: oblique;
+    text-align: justify;
+    padding-left: 35px;
+}
+details{
+    color: black;
+    font-size: 14px;
+    font-family: "Noto Sans JP",sans-serif;
+    font-style: arial;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 55px;
+}
+h2{
+    color:black;
+    font-size: 20px;
+    font-family: "Noto Sans JP",sans-serif;
+    font-style: arial;
+    text-align: justify;
+    padding-left: 35px;
+}
+
+
